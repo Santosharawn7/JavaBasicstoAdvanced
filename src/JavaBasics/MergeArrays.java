@@ -2,6 +2,7 @@ package JavaBasics;
 
 import java.util.Arrays;
 
+//Merging two arrays
 public class MergeArrays {
     public static void main(String[] args) {
         int[] arr1 = {1,3,5};

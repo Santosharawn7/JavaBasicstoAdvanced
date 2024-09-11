@@ -1,5 +1,6 @@
 package JavaBasics;
 
+//Finding the Fibonacci Series, where the next number in the series is is sum of previous two numbers
 public class Fibonacci {
     public static void main(String[] args) {
         int n = 10, num1 =0, num2 =1;

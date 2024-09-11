@@ -1,5 +1,6 @@
 package JavaBasics;
 
+//Find the second-largest number in an array
 public class SecondLargestInArray {
     public static void main(String[] args) {
         int[] arr = {12, 35, 1 , 10, 34, 1, 20};

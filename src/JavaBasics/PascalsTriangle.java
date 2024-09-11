@@ -2,6 +2,7 @@ package JavaBasics;
 
 import java.util.Scanner;
 
+//Pascals triangle is where numbers forms a series in triangle downward, where the bottom number is sum of adjacent above two elements
 public class PascalsTriangle {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

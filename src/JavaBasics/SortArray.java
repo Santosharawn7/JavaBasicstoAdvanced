@@ -2,6 +2,7 @@ package JavaBasics;
 
 import java.util.Scanner;
 
+//Sort the Array without using the library
 public class SortArray {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

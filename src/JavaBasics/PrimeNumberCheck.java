@@ -2,6 +2,7 @@ package JavaBasics;
 
 import java.util.Scanner;
 
+//Checking Prime Number without using Library
 public class PrimeNumberCheck {
 public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

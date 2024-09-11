@@ -3,6 +3,8 @@ package JavaBasics;
 import java.util.Arrays;
 import java.util.Scanner;
 
+
+//Checking if the String are Anagram to each other, i.e, alps is anagram of pals
 public class AnagramChecker {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
