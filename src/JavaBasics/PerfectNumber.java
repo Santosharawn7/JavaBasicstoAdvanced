@@ -2,6 +2,7 @@ package JavaBasics;
 
 import java.util.Scanner;
 
+//Perfect number is equal to the sum of its divisors i.e, the divisor of 6 are 1, 2, 3 where the sum of 1, 2, and 3 is 6
 public class PerfectNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

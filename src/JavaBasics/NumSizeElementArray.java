@@ -1,5 +1,6 @@
 package JavaBasics;
 
+//Finding the largest and smallest number in an array
 public class NumSizeElementArray {
     public static void main(String[] args) {
         int[] arr = {1, 3, 5, 7, 9};

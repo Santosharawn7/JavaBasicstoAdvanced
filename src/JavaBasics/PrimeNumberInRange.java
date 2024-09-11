@@ -2,6 +2,7 @@ package JavaBasics;
 
 import java.util.Scanner;
 
+//Finding prime numbers in certain range
 public class PrimeNumberInRange {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

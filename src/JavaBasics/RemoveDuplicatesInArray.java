@@ -3,6 +3,8 @@ package JavaBasics;
 import java.util.Arrays;
 import java.util.HashSet;
 
+
+//Removing Duplicates in an array
 public class RemoveDuplicatesInArray {
     public static void main(String[] args) {
         int[] arr = {11, 22, 33, 44, 11, 22, 33, 44, 1, 2, 3, 4, 2, 4, 3, 1};

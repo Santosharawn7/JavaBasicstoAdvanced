@@ -2,6 +2,7 @@ package JavaBasics;
 
 import java.util.Scanner;
 
+//Check if the string is Palindrome i.e. a palindrome string: civic, radar, level
 public class Palindrome {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);  // Create a Scanner object for input

@@ -1,5 +1,6 @@
 package JavaBasics;
 
+//Finding HCF and LCM
 public class Greatest_and_Lowest_CommonDivisor {
 
     public static int calculateHCF(int a, int b){
