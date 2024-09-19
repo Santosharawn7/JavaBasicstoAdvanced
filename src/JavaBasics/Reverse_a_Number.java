@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class Reverse_a_Number {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter a number:");
         int num = scanner.nextInt(), reversed = 0;
         while (num != 0){
             reversed = reversed * 10 + num % 10;

@@ -6,7 +6,9 @@ import java.util.Scanner;
 public class PrimeNumberInRange {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter a number for starting range:");
         int start = scanner.nextInt();
+        System.out.println("Enter a number for ending range:");
         int end = scanner.nextInt();
 
         for(int num = start; num <= end; num++){
